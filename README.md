@@ -1,0 +1,2 @@
+# ExifInfo
+Fotogram bilgileri
